@@ -1,0 +1,16 @@
+# Local reference books and derived PDF excerpts
+sources/*.pdf
+# Browser backups, exports, credentials and local tooling
+*.docx
+*.pdf
+*.zip
+*.json
+.env
+.env.*
+*.pem
+.serena/
+.taste-skill/
+node_modules/
+work/
+Thumbs.db
+Desktop.ini
